@@ -36,6 +36,7 @@ func main() {
 	}
 
 	fmt.Println(keys)
+	//sorted keys
 	sort.Strings(keys)
 	fmt.Println(keys)
 
